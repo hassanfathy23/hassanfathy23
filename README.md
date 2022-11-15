@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hassan
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning back-end development
+- 👀 I’m full stack web developer
+- 🌱 I’m currently learning testing using cypress
 - 💞️ I’m looking forward  to collaborating on many projects in the future
 - contact me: hassanfathy593@gmail.com
 
